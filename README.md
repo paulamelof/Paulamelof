@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://instagram.com/apaula.dev"><img src="https://img.shields.io/badge/@apaula.dev-2b2b2b?style=for-the-badge&logo=instagram&logoColor=e01eff"/></a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=30e6ff"/></a>
-  <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-2b2b2b?style=for-the-badge&logo=gmail&logoColor=fcfbf1"/></a>
+  <a href="https://www.linkedin.com/in/anapaulaemf"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=30e6ff"/></a>
+  <a href="mailto:paulamelo005@gmail.com"><img src="https://img.shields.io/badge/E--mail-2b2b2b?style=for-the-badge&logo=gmail&logoColor=fcfbf1"/></a>
 </p>
 
 ---
